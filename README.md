@@ -6,6 +6,8 @@ Make sure you're running this in node. Don't forget the package.json and package
 
 Also make sure you run "npm install mysql" in terminal
 
+Run schema.sql in mysql worbench
+
 Now run the program ----- "node node.js"
 
 Then follow prompts
